@@ -3,6 +3,8 @@
 ## Table of Contents
 
 - [Testing Dataset](#testing)
+- [Nursing Home Dataset](#nursing)
+- [Airport Dataset](#airport)
 - [GIS Dataset](#gis)
 
 <a name="testing"></a>
@@ -15,6 +17,17 @@
 
 *  [Indiana COVID-19 Dataset](https://hub.mph.in.gov/dataset?q=COVID)
 ###### Stat-wide reports, county level stats, and more
+
+<a name="nursing"></a>
+## Nursing Home Dataset
+*  [COVID-19 Nursing Home Data](https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp) 
+###### Nursing home reports to the CDC's National Healthcare Safety Network (NHSN) system (includes GIS shapfile)
+
+<a name="airport"></a>
+## Airport Dataset
+*  [ICAO Airport Data](https://www.icao.int/safety/iStars/Pages/API-Data-Service.aspx) 
+*  [ICAO Airport Data Visualization](https://www.icao.int/safety/Pages/COVID-19-Airport-Status.aspx) 
+###### Airports, Operators, Airspaces, Occurrences and Aircraft
 
 <a name="gis"></a>
 ## GIS Dataset
