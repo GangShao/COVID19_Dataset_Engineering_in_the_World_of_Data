@@ -6,6 +6,7 @@
 - [Genome Dataset](#genome)
 - [Social Science Dataset](#social)
 - [Nursing Home Dataset](#nursing)
+- [Mobility Data](#mobility)
 - [Airport Dataset](#airport)
 - [GIS Dataset](#gis)
 - [Consumer Spending Data](#spending)
@@ -45,6 +46,13 @@
 ## Nursing Home Dataset
 *  [COVID-19 Nursing Home Data](https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp) 
 ###### Nursing home reports to the CDC's National Healthcare Safety Network (NHSN) system (includes GIS shapfile)
+
+<a name="airport"></a>
+## Mobility Dataset
+*  [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) 
+###### Mobility trends in Google Maps
+*  [Apple COVID-19 Mobility Trends Reports](https://www.apple.com/covid19/mobility) 
+###### Mobility trends in Apple Maps
 
 <a name="airport"></a>
 ## Airport Dataset
