@@ -5,6 +5,7 @@
 - [Testing Dataset](#testing)
 - [Nursing Home Dataset](#nursing)
 - [Airport Dataset](#airport)
+- [Social Science Dataset](#social)
 - [GIS Dataset](#gis)
 
 <a name="testing"></a>
@@ -28,6 +29,13 @@
 *  [ICAO Airport Data](https://www.icao.int/safety/iStars/Pages/API-Data-Service.aspx) 
 *  [ICAO Airport Data Visualization](https://www.icao.int/safety/Pages/COVID-19-Airport-Status.aspx) 
 ###### Airports, Operators, Airspaces, Occurrences and Aircraft
+
+<a name="social"></a>
+## Social Science Dataset
+*  [COVID-19 Tweets Data](https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset) 
+###### Tweets using 54 COVID-19 related keywords
+*  [Kaggle Open Research Challenge (COVID-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
+###### Over 200,000 scholarly articles, including over 90,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
 
 <a name="gis"></a>
 ## GIS Dataset
