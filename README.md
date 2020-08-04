@@ -3,11 +3,14 @@
 ## Table of Contents
 
 - [Testing Dataset](#testing)
+- [Genome Dataset](#genome)
+- [Social Science Dataset](#social)
 - [Nursing Home Dataset](#nursing)
 - [Airport Dataset](#airport)
-- [Social Science Dataset](#social)
 - [GIS Dataset](#gis)
 - [Consumer Spending Data](#spending)
+- [COVID-19 Images](#image)
+- [Case Study Data Collection](#case)
 - [Data Hubs and More](#hub)
 
 <a name="testing"></a>
@@ -21,6 +24,23 @@
 *  [Indiana COVID-19 Dataset](https://hub.mph.in.gov/dataset?q=COVID)
 ###### Stat-wide reports, county level stats, and more
 
+<a name="genome"></a>
+## Genome Dataset
+*  [COVID-19 Genome Sequence Dataset in AWS](https://registry.opendata.aws/ncbi-covid-19/) 
+*  [COVID-19 Genome and More(2019nCoVR)](https://bigd.big.ac.cn/ncov/?lang=en) 
+*  [Broad Terra Cloud Workspace fro COVID-19 Genomics Data](https://app.terra.bio/#workspaces/pathogen-genomic-surveillance/COVID-19) 
+
+<a name="social"></a>
+## Social Science Dataset
+*  [COVID-19 Tweets Data](https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset) 
+###### Tweets using 54 COVID-19 related keywords
+*  [Kaggle Open Research Challenge (COVID-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
+###### Over 200,000 scholarly articles, including over 90,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
+*  [Dimensions COVID-19 Publications, Dataset and Clinical Trials](https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063/11) 
+###### Including links for addtional COVID-19 datasets.
+*  [OPENICPSR COVID-19 Data Repository](https://www.openicpsr.org/openicpsr/covid19) 
+###### Data examining the social, behavioral, public health, and economic impact of the novel coronavirus global pandemic
+
 <a name="nursing"></a>
 ## Nursing Home Dataset
 *  [COVID-19 Nursing Home Data](https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp) 
@@ -31,13 +51,6 @@
 *  [ICAO Airport Data](https://www.icao.int/safety/iStars/Pages/API-Data-Service.aspx) 
 *  [ICAO Airport Data Visualization](https://www.icao.int/safety/Pages/COVID-19-Airport-Status.aspx) 
 ###### Airports, Operators, Airspaces, Occurrences and Aircraft
-
-<a name="social"></a>
-## Social Science Dataset
-*  [COVID-19 Tweets Data](https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset) 
-###### Tweets using 54 COVID-19 related keywords
-*  [Kaggle Open Research Challenge (COVID-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
-###### Over 200,000 scholarly articles, including over 90,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
 
 <a name="gis"></a>
 ## GIS Dataset
@@ -51,6 +64,20 @@
 ###### Report by The NPD Group
 *  [Spending in the U.S., U.K and Germany](https://www.statista.com/statistics/1108088/products-and-services-people-spend-more-on-due-to-the-covid-19-pandemic/) 
 ###### Report by Statista
+
+<a name="image"></a>
+## COVID-19 Images
+*  [COVID Digital Pathology Resources](https://covid19pathology.nih.gov/) 
+###### Histopathologic samples relevant to COVID-19
+*  [COVID-19 Dataset on The Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/x/aI0vB) 
+###### COVID-19 radiology and digitized histopathology patient image sets 
+
+<a name="case"></a>
+## Case Study Data Collection
+*  [COVID-19 Modeling Research](https://midasnetwork.us/covid-19/) 
+###### NIGMS-funded modeling research with public-access data collections.
+*  [Collection of COVID-19 Research Publications](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov) 
+###### Articles and data collections by WHO
 
 <a name="hub"></a>
 ## Data Hubs and More
