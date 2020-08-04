@@ -28,8 +28,11 @@
 <a name="genome"></a>
 ## Genome Dataset
 *  [COVID-19 Genome Sequence Dataset in AWS](https://registry.opendata.aws/ncbi-covid-19/) 
+###### All strains of novel corona virus (SARS-CoV-2) submitted to the National Center for Biotechnology Information (NCBI)
 *  [COVID-19 Genome and More(2019nCoVR)](https://bigd.big.ac.cn/ncov/?lang=en) 
+###### All published sequences, mutation analyses, literatures and others
 *  [Broad Terra Cloud Workspace fro COVID-19 Genomics Data](https://app.terra.bio/#workspaces/pathogen-genomic-surveillance/COVID-19) 
+###### Cloud workshpace to store, process and visulize COVID-19 genomic data
 
 <a name="social"></a>
 ## Social Science Dataset
