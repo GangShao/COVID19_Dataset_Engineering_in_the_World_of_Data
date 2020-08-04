@@ -7,6 +7,8 @@
 - [Airport Dataset](#airport)
 - [Social Science Dataset](#social)
 - [GIS Dataset](#gis)
+- [Consumer Spending Data](#spending)
+- [Data Hubs and More](#hub)
 
 <a name="testing"></a>
 ## Testing Dataset
@@ -41,3 +43,17 @@
 ## GIS Dataset
 *  [COVID-19 GIS Hub](https://coronavirus-disasterresponse.hub.arcgis.com/) [(Data Portal)](https://coronavirus-disasterresponse.hub.arcgis.com/datasets/feb6280d42de4e91b47cf37344a91eae_0?geometry=-133.190%2C28.795%2C133.821%2C67.148&showData=true)
 ###### ESRI COVID19 maps and datasets
+
+<a name="spending"></a>
+## Consumer Spending Data
+###### Most of the consumer spending data were non-public but reports are open source
+*  [U.S. Consumption Trends by Week](https://www.npd.com/wps/portal/npd/us/news/coronavirus/) 
+###### Report by The NPD Group
+*  [Spending in the U.S., U.K and Germany](https://www.statista.com/statistics/1108088/products-and-services-people-spend-more-on-due-to-the-covid-19-pandemic/) 
+###### Report by Statista
+
+<a name="hub"></a>
+## Data Hubs and More
+*  [Google Cloud Open Data](https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/covid19-open-data?_ga=2.156895032.-202760174.1595598622&pli=1) 
+*  [AWS Data Lake](https://dj2taa9i652rf.cloudfront.net/) 
+*  [Mathematica COVID-19 Data Hub](https://mathematica-mpr.github.io/covidinfo/data_sources.html) 
