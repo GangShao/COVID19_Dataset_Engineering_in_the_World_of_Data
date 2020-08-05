@@ -50,7 +50,7 @@
 *  [COVID-19 Nursing Home Data](https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp) 
 ###### Nursing home reports to the CDC's National Healthcare Safety Network (NHSN) system (includes GIS shapfile)
 
-<a name="airport"></a>
+<a name="mobility"></a>
 ## Mobility Dataset
 *  [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) 
 ###### Mobility trends in Google Maps
