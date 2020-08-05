@@ -5,6 +5,7 @@
 - [Testing Dataset](#testing)
 - [Genome Dataset](#genome)
 - [Social Science Dataset](#social)
+- [Mask Wearing Dataset](#mask)
 - [Nursing Home Dataset](#nursing)
 - [Mobility Data](#mobility)
 - [Airport Dataset](#airport)
@@ -49,6 +50,14 @@
 ###### Including links for addtional COVID-19 datasets.
 *  [OPENICPSR COVID-19 Data Repository](https://www.openicpsr.org/openicpsr/covid19) 
 ###### Data examining the social, behavioral, public health, and economic impact of the novel coronavirus global pandemic
+
+<a name="mask"></a>
+## Mask Wearing Dataset
+*  [A Detailed Map of Who is Wearing Masks in the U.S.](https://www.nytimes.com/interactive/2020/07/17/upshot/coronavirus-face-mask-map.html) 
+*  [Raw Data on GitHub](https://github.com/nytimes/covid-19-data/tree/master/mask-use) 
+
+###### County-level mask wearing survey data by Dynata at the request of The New York Times
+
 
 <a name="nursing"></a>
 ## Nursing Home Dataset
