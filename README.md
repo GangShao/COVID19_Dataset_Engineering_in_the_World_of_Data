@@ -23,7 +23,12 @@
 ###### John Hopkins COVID-19 dataset, daily reports and time series 
 
 *  [Indiana COVID-19 Dataset](https://hub.mph.in.gov/dataset?q=COVID)
-###### Stat-wide reports, county level stats, and more
+###### State-wide reports, county level stats, and more
+
+#### State Level Dashboards
+*  [Indiana](https://www.regenstrief.org/covid-dashboard/)
+*  [Georgia](https://dph.georgia.gov/covid-19-daily-status-report)
+*  [Washington](https://www.doh.wa.gov/Emergencies/NovelCoronavirusOutbreak2020COVID19/DataDashboard)
 
 <a name="genome"></a>
 ## Genome Dataset
