@@ -1,4 +1,4 @@
-# COVID19_Dataset_Engineering_in_the_World_of_Data
+# COVID19_Dataset_EWD_Learning_Community
 
 ## Table of Contents
 
