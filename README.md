@@ -107,7 +107,7 @@
 <a name="hub"></a>
 ## Data Hubs and More
 *  [Google Cloud Open Data](https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/covid19-open-data?_ga=2.156895032.-202760174.1595598622&pli=1) 
-###### 
+###### Data relating to demographics, economy, epidemiology, geography, health, hospitalizations, mobility, government response, and weather.
 *  [AWS Data Lake](https://dj2taa9i652rf.cloudfront.net/) 
 ###### Case tracking, hospital beds, research articles and more.
 *  [Mathematica COVID-19 Data Hub](https://mathematica-mpr.github.io/covidinfo/data_sources.html) 
