@@ -109,3 +109,5 @@
 *  [Google Cloud Open Data](https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/covid19-open-data?_ga=2.156895032.-202760174.1595598622&pli=1) 
 *  [AWS Data Lake](https://dj2taa9i652rf.cloudfront.net/) 
 *  [Mathematica COVID-19 Data Hub](https://mathematica-mpr.github.io/covidinfo/data_sources.html) 
+*  [Data USA: COVID-19 in The United States](https://datausa.io/coronavirus) 
+###### U.S. data visualization using publicly available datasets by Deloitte and Datawheel:case number, mobility, employment and etc.
