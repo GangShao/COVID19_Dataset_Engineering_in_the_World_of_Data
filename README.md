@@ -47,7 +47,7 @@
 *  [Kaggle Open Research Challenge (COVID-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) 
 ###### Over 200,000 scholarly articles, including over 90,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
 *  [Dimensions COVID-19 Publications, Dataset and Clinical Trials](https://dimensions.figshare.com/articles/Dimensions_COVID-19_publications_datasets_and_clinical_trials/11961063/11) 
-###### Including links for addtional COVID-19 datasets.
+###### Including links for additional COVID-19 datasets.
 *  [OPENICPSR COVID-19 Data Repository](https://www.openicpsr.org/openicpsr/covid19) 
 ###### Data examining the social, behavioral, public health, and economic impact of the novel coronavirus global pandemic
 
@@ -62,7 +62,7 @@
 <a name="nursing"></a>
 ## Nursing Home Dataset
 *  [COVID-19 Nursing Home Data](https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp) 
-###### Nursing home reports to the CDC's National Healthcare Safety Network (NHSN) system (includes GIS shapfile)
+###### Nursing home reports to the CDC's National Healthcare Safety Network (NHSN) system (includes GIS shapefile)
 
 <a name="mobility"></a>
 ## Mobility Dataset
