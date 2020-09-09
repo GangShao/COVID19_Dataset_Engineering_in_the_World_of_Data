@@ -38,7 +38,7 @@
 *  [COVID-19 Genome and More(2019nCoVR)](https://bigd.big.ac.cn/ncov/?lang=en) 
 ###### All published sequences, mutation analyses, literatures and others
 *  [Broad Terra Cloud Workspace fro COVID-19 Genomics Data](https://app.terra.bio/#workspaces/pathogen-genomic-surveillance/COVID-19) 
-###### Cloud workshpace to store, process and visulize COVID-19 genomic data
+###### Cloud workspace to store, process and visualize COVID-19 genomic data
 
 <a name="social"></a>
 ## Social Science Dataset
